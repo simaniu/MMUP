@@ -1,2 +1,2 @@
-# MCHA
-Multi-Frame Cooperative Hybrid Architecture for Laparoscopic Smoke Elimination
+# MMUP
+Mamba-based Multi-slice Cascaded Network for Accelerated Prostate Imaging
